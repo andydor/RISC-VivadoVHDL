@@ -1,0 +1,16 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sim_1/new/RISC_tb.vhd,1608038010,vhdl,,,,risc_tb,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/new/FDN.vhd,1607972081,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,fdn,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/RISC_pkg.vhd,1494524558,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/unit_aritm.vhd,,,risc_pkg,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/mem_date.vhd,1494523436,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,mem_date,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/mem_instr.vhd,1494523354,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,mem_instr,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/mux_4_1.vhd,1494523382,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/unit_aritm.vhd,,,mux_4_1,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,1608031315,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sim_1/new/RISC_tb.vhd,,,proc_risc,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/set_reg.vhd,1494523362,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,set_reg,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/unit_aritm.vhd,1494523372,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,depl;func;unit_aritm,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/new/CONST.vhd,1608039203,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,const,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/new/DCDI.vhd,1608039178,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,dcdi,,,,,,,,
+D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/new/SELMUXC.vhd,1608027167,vhdl,D:/Andrei/facultate/An 3/ssc/RISC/RISC.srcs/sources_1/imports/proc_RISC/proc_RISC.vhd,,,selmuxc,,,,,,,,

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec 16 10:59:24 2020
+# Process ID: 7304
+# Current directory: D:/Andrei/facultate/An 3/ssc/RISC/RISC.runs/synth_1
+# Command line: vivado.exe -log implem_RISC.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source implem_RISC.tcl
+# Log file: D:/Andrei/facultate/An 3/ssc/RISC/RISC.runs/synth_1/implem_RISC.vds
+# Journal file: D:/Andrei/facultate/An 3/ssc/RISC/RISC.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source implem_RISC.tcl -notrace
